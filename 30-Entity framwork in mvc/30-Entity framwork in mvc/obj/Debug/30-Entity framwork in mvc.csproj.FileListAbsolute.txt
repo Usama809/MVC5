@@ -1,0 +1,26 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\30-Entity framwork in mvc.dll.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\30-Entity framwork in mvc.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\30-Entity framwork in mvc.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\EntityFramework.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\MyApp.Db.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\MyApp.Models.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Helpers.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Mvc.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Razor.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.Razor.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\MyApp.Db.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\MyApp.Models.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\EntityFramework.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Razor.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Webpages.Razor.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Helpers.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\bin\System.Web.Mvc.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\obj\Debug\30-Entity framwork in mvc.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\obj\Debug\30-Entity framwork in mvc.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\30-Entity framwork in mvc\obj\Debug\30-Entity framwork in mvc.pdb

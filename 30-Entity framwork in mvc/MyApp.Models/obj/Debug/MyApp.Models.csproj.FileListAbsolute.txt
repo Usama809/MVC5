@@ -1,0 +1,4 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Models\bin\Debug\MyApp.Models.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Models\bin\Debug\MyApp.Models.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Models\obj\Debug\MyApp.Models.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Models\obj\Debug\MyApp.Models.pdb

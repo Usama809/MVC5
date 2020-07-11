@@ -1,0 +1,12 @@
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\MyApp.Db.dll.config
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\MyApp.Db.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\MyApp.Db.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\EntityFramework.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\MyApp.Models.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\MyApp.Models.pdb
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\EntityFramework.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\obj\Debug\MyApp.Db.csprojResolveAssemblyReference.cache
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\obj\Debug\MyApp.Db.dll
+C:\Users\Xami Rajpoot\documents\visual studio 2013\Projects\30-Entity framwork in mvc\MyApp.Db\obj\Debug\MyApp.Db.pdb
